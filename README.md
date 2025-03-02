@@ -15,8 +15,9 @@
 
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeemsikander) 
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/azeem_vivid_views/)
 
 ---
 🌱 **Currently Studying:** Masters Student at Universität Potsdam, Germany  
 📸 **Fun Fact:** I Love Photography. 
-
+  
